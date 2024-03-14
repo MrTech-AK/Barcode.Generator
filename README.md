@@ -23,7 +23,7 @@ Furthermore, the QR Code Generator project is open-source, allowing for collabor
 
 Whether you're a developer looking to integrate QR code generation into your application or simply in need of a convenient tool for personal use, the QR Code Generator project on GitHub is an invaluable resource. Its combination of versatility, reliability, and ease of use makes it the go-to choice for anyone seeking a robust solution for generating QR codes.
 
-## Check Out Demo Clock
+## Generate Your QR CODE
 [CLICK HERE](https://barcode-generator-flax.vercel.app/) to QR code for FREE
 
 **Total Views** ![Views](https://profile-counter.glitch.me/Barcode.Generator/count.svg) 
