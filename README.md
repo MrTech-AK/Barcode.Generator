@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/Author-MrTech.AK-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Version-v1.0-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
-</p>
+  </p>
 
 ## Description
 The QR Code Generator project on GitHub is a comprehensive tool designed to simplify the process of generating QR codes for a multitude of purposes. With its user-friendly interface and robust functionality, this generator empowers users to effortlessly create QR codes for a wide range of applications.
